@@ -1,0 +1,8 @@
+Package: com.iosrxwy.sougouinputNoAds
+Name: sougouinputNoAds
+Version: 1.0-0
+Description: 搜狗输入法全局去广告
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Author: iosrxwy
+Architecture: iphoneos-arm64
